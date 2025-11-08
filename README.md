@@ -15,8 +15,8 @@ Previously, at **Occident**, I gained hands-on experience in **data analysis, SQ
 ---
 
 ## 🌍 Languages
-- Spanish 🇪🇸  
-- Catalan 🇨🇦  
+- Spanish  
+- Catalan   
 - English 🇬🇧 (B2, currently studying for C1)  
 
 ---
